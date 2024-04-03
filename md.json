@@ -1,8 +1,0 @@
-cat > md.json << EOF
-{
-"name": "Discover Crypto",
-"description": "The Official Discover Crypto Staking Pool",
-"ticker": "DISCO",
-"homepage": "https://discovercrypto.live"
-}
-EOF
